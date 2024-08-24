@@ -1,0 +1,3 @@
+ok so this mod is stolen and is originally by cyclozarin, all credits to him, i just edited it so you are able to kill enemies since content settings broke....
+THIS ALSO DOES ADD THE FEATURE OF ENEMIES BEING DESTROYED 15 SECONDS AFTER DEATH TO CLEAR UP SPACE
+by protatooe the stealer!!!

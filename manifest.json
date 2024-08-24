@@ -1,0 +1,16 @@
+{
+  "namespace": "PotatoeEdit",
+  "name": "LazerWeaponEdit",
+  "description": "A Content Warning mod by cyclozarin that allows rescue hook to shoot lazer projectiles and adds a PvP mode to play with your friends! Now u can actually kill enemies!!!",
+  "version_number": "1.1.0",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "Hamunii-AutoHookGenPatcher-1.0.2",
+    "RugbugRedfern-MyceliumNetworking-1.0.14",
+    "CommanderCat101-ContentSettings-1.2.2",
+    "Notest-ConfigSync-2.0.0",
+    "JustMeForNow-MortalEnemies-1.1.1"
+  ],
+  "website_url": "https://github.com/cyclozarin/LazerWeaponry",
+  "FullName": "PotatoesStolenMods-LazerWeaponEdit"
+}
